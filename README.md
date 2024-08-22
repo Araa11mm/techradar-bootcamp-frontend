@@ -13,7 +13,7 @@ For build project use command:
 
 ## Eslint & Prettier
 
-The project uses eslint and prettier. During development, you can check the code style and fix some errors and warnings.
+The project uses ifnt and prettier. During development, you can check the code style and fix some errors and warnings.
 
 Check syntax (Eslint): `npm run lint`, check and fix: `npm run lint:fix`
 
